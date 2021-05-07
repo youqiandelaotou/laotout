@@ -8,3 +8,4 @@
 	7. netty/akka
 	9. sbt/gradle/maven
 	10. olap: clickhouse/spark/presto
+	11. bitmap vs roaringbitmap vs bloomfilter
